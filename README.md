@@ -16,6 +16,6 @@ This is a frontend project created to practice my skills in HTML, CSS, and respo
 
 ## Live Demo
 
-You can view a live demo of the project at [].
+You can view a live demo of the project at [https://b-soufian.github.io/FOOD/].
 
 
